@@ -1,0 +1,18 @@
+{
+  "expires": "2026-11-01T19:16:31+00:00",
+  "files": [
+    {
+      "length": 28,
+      "path": "app/hello.txt",
+      "role_version": 1,
+      "sha256": "43e9110c3ceb784e100260201f787b1fa4cd2df27a2c411a1c7e751d4a8e73a7"
+    },
+    {
+      "length": 21,
+      "path": "app/version.json",
+      "role_version": 1,
+      "sha256": "144f33b2195391634c87921d72ac481d3a4c4feaf4dc3c6e4a7d0a7be30e6c53"
+    }
+  ],
+  "targets_version": 1
+}
